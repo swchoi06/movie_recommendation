@@ -4,3 +4,6 @@
 # Ignore temporal files
 tmp*/
 test*.py
+
+# Ignore dataset
+dataset/
